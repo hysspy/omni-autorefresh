@@ -1,3 +1,8 @@
+#################################
+#Author : Herwin Yudha S
+#Github : hysspy
+#################################
+
 import pyautogui
 import pygetwindow as gw
 import time
