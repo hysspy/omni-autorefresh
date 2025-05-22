@@ -2,6 +2,8 @@
 
 OMNITRACKER Auto Refresh GUI — Cyber Themed Productivity Tool
 
+![](https://github.com/hysspy/omni-autorefresh/blob/main/omniauto.gif)
+
 🧾 Description
 
 A cyberpunk-inspired Python GUI tool that automates periodic refreshing of the OMNITRACKER Client window. It simulates a mouse click and F5 press to refresh the app at user-defined intervals. The interface features glowing neon animations, interactive logging, and a sleek gradient background.
